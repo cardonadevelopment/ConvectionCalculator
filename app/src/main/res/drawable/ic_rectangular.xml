@@ -1,0 +1,87 @@
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Convection calculator app
+  ~ Copyright (C) 2017 Luis F. Cardona S.
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="422dp"
+        android:height="240dp"
+        android:viewportWidth="422.07983"
+        android:viewportHeight="240.5535">
+    <path
+        android:pathData="m346.89,6.72l-340.16,0m340.16,160.89l0,-160.89m-340.16,0l0,160.89l340.16,0"
+        android:strokeLineCap="butt"
+        android:strokeColor="#231f20"
+        android:fillColor="#00000000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="miter"
+        android:strokeAlpha="1"/>
+    <path
+        android:pathData="m401.26,72.47 l-4.78,13.98q2.33,-2.02 4.05,-2.77 1.75,-0.75 3.64,-0.75 2.67,0 4.37,1.48 1.7,1.48 1.7,4.01 0,3.26 -2.23,6.49 -2.23,3.22 -5.61,5.02 -3.37,1.8 -6.65,1.8 -3.66,0 -7.52,-2.29l7.38,-21.18q0.85,-2.45 0.85,-2.87 0,-0.53 -0.39,-0.79 -0.56,-0.36 -1.65,-0.36 -0.51,0 -1.55,0.14l0,-0.77zM391.87,99.66q2.43,1.11 4.27,1.11 2.14,0 4.42,-1.29 2.3,-1.31 3.98,-4.41 1.7,-3.1 1.7,-6.25 0,-1.86 -1.12,-2.91 -1.09,-1.05 -2.6,-1.05 -2.26,0 -4.42,1.52 -2.16,1.5 -3.08,4.19z"
+        android:fillAlpha="1"
+        android:strokeColor="#00000000"
+        android:fillColor="#231f20"
+        android:strokeWidth="5"/>
+    <path
+        android:pathData="m190.36,207.16 l-5.25,18.26 -0.59,2.45q-0.08,0.35 -0.08,0.59 0,0.43 0.27,0.75 0.22,0.24 0.54,0.24 0.35,0 0.92,-0.43 1.05,-0.78 2.8,-3.23l0.92,0.65q-1.86,2.8 -3.83,4.28 -1.97,1.45 -3.64,1.45 -1.16,0 -1.75,-0.59 -0.56,-0.57 -0.56,-1.67 0,-1.32 0.59,-3.47l0.56,-2.02q-3.53,4.61 -6.49,6.44 -2.13,1.32 -4.17,1.32 -1.97,0 -3.39,-1.62 -1.43,-1.64 -1.43,-4.5 0,-4.28 2.56,-9.02 2.59,-4.77 6.55,-7.62 3.1,-2.26 5.84,-2.26 1.64,0 2.72,0.86 1.1,0.86 1.67,2.86l0.97,-3.07zM180.77,208.56q-1.72,0 -3.66,1.62 -2.75,2.29 -4.9,6.79 -2.13,4.5 -2.13,8.13 0,1.83 0.92,2.91 0.92,1.05 2.1,1.05 2.94,0 6.38,-4.34 4.61,-5.76 4.61,-11.82 0,-2.29 -0.89,-3.31 -0.89,-1.02 -2.42,-1.02z"
+        android:fillAlpha="1"
+        android:strokeColor="#00000000"
+        android:strokeWidth="5"
+        android:fillColor="#231f20"/>
+    <path
+        android:pathData="M333.1,20.51L20.51,20.51L20.51,153.82L333.1,153.82Z"
+        android:strokeLineCap="butt"
+        android:strokeColor="#231f20"
+        android:fillColor="#00000000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="miter"
+        android:strokeAlpha="1"/>
+    <path
+        android:pathData="M22.31,218.34 L41.09,225.23L41.09,211.44L22.31,218.34"
+        android:fillAlpha="1"
+        android:strokeWidth="5"
+        android:strokeColor="#00000000"
+        android:fillColor="#231f20"/>
+    <path
+        android:pathData="M330.6,218.34 L311.82,225.23L311.82,211.44L330.6,218.34"
+        android:fillAlpha="1"
+        android:strokeColor="#00000000"
+        android:strokeWidth="5"
+        android:fillColor="#231f20"/>
+    <path
+        android:pathData="m202,218.34l113.35,0m-279.31,0L152.19,218.34M21.53,180.09L21.53,235.55M330.57,180.09l0,55.46"
+        android:strokeLineCap="butt"
+        android:strokeColor="#231f20"
+        android:fillColor="#00000000"
+        android:strokeWidth="2"
+        android:strokeLineJoin="miter"
+        android:strokeAlpha="1"/>
+    <path
+        android:pathData="M398.15,152.34 L405.05,135.44L391.25,135.44L398.15,152.34"
+        android:fillAlpha="1"
+        android:strokeColor="#00000000"
+        android:strokeWidth="5"
+        android:fillColor="#231f20"/>
+    <path
+        android:pathData="M398.15,23.33 L405.05,40.23L391.25,40.23L398.15,23.33"
+        android:fillAlpha="1"
+        android:strokeColor="#00000000"
+        android:strokeWidth="5"
+        android:fillColor="#231f20"/>
+    <path
+        android:pathData="m398.15,65.32l0,-30.29m0,106.47l0,-29.7m-38.24,42.48L417.08,154.28M359.91,22.54l57.17,0"
+        android:strokeLineCap="butt"
+        android:strokeColor="#231f20"
+        android:fillColor="#00000000"
+        android:strokeWidth="2.5"
+        android:strokeLineJoin="miter"
+        android:strokeAlpha="1"/>
+</vector>

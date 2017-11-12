@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ The MIT License (MIT)
+  ~
+  ~ Convection calculator app
+  ~ Copyright (C) 2017 Luis F. Cardona S.
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<resources>
+    <string name="app_name">Calculadora convección</string>
+    <string name="DiameterLabel">Diametro nominal D</string>
+    <string name="action_settings">Configuración</string>
+    <string name="convectionCoefficient">h convectivo</string>
+    <string name="flowRegime">Régimen</string>
+    <string name="flowRegimeInitValue">turbulento</string>
+    <string name="fluidLabel">Fluido</string>
+    <string name="frictionFactor">Factor fricción</string>
+    <string name="geometryLabel">Geometría de la tubería</string>
+    <string name="heatTransferRate">Q disipado</string>
+    <string name="hydrodynamicEntryLength">Le hidrodinámica</string>
+    <string name="imageDescription">Perfil</string>
+    <string name="inletVelocityLabel">Velocidad entrada</string>
+    <string name="massFlowLabel">Flujo másico</string>
+    <string name="outletTempLabel">T salida</string>
+    <string name="sideALabel">Lado a</string>
+    <string name="sideBLabel">Lado b</string>
+    <string name="tempFluidoLabel">T entrada</string>
+    <string name="thermalEntryLength">Le térmica</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="tubeLengthLabel">Longitud tuberia</string>
+    <string name="volumetricFlowLabel">Flujo volumétrico</string>
+    <string name="Nusselt" translatable="false">Nusselt</string>
+    <string name="pref_header_limits">Limites</string>
+    <string name="innerDiameterLabel">Diametro nominal d</string>
+    <string name="materialLabel">Material</string>
+    <string name="ReynoldsLabel">Reynolds</string>
+    <string name="NTU">NTU</string>
+    <string name="meanTemp">T promedio</string>
+    <string name="fluidDensity">Densidad</string>
+    <string name="fluidCp">Cp</string>
+    <string name="fluidPrandtl">Prandtl</string>
+    <string name="fluidConductivity">Conductividad</string>
+    <string name="fluidKinematicViscosity">V cinemática</string>
+    <string name="fluidDynamicViscosity">V dinámica</string>
+    <string name="fluidDynamicViscositySurfaceTemp">V dinámica (@ Ts)</string>
+    <string name="pref_header_general">General</string>
+    <string name="inletPressure">Presión entrada (kPa)</string>
+    <string name="minInletTemperatureTitle">Mín T entrada (°C)</string>
+    <string name="maxInletTemperatureTitle">Máx T entrada (°C</string>
+    <string name="minPipeLengthTitle">Mín longitud tubería (m)</string>
+    <string name="maxPipeLengthTitle">Máx longitud tubería (m)</string>
+    <string name="minSideTitle">Mín lado ducto rectangular (m)</string>
+    <string name="maxSideTitle">Máx lado ducto rectangular (m)</string>
+    <string name="minMassFlowTitle">Mín flujo másico (kg/s)</string>
+    <string name="maxMassFlowTitle">Máx flujo másico (kg/s)</string>
+    <string name="minVolumetricFlowTitle">Mín flujo volumétrico (m³/s)</string>
+    <string name="maxVolumetricFlowTitle">Máx flujo volumétrico (m³/s)</string>
+    <string name="minInletVelocityTitle">Mín velocidad entrada (m/s)</string>
+    <string name="maxInletVelocityTitle">Máx velocidad entrada (m/s)</string>
+    <string name="minSurfaceTemperatureTitle">Mín temperatura superficial (°C)</string>
+    <string name="maxSurfaceTemperatureTitle">Max temperatura superficial (°C)</string>
+    <string name="minHeatTransferRateTitle">Mín transferencia calor (W)</string>
+    <string name="maxHeatTransferRateTitle">Max transferencia calor (W)</string>
+    <string name="errorMessageLimits">Revisa límites introducidos</string>
+    <string name="errorMessageDiameters">Revisa diámetros introducidos</string>
+    <string name="pref_showOptions" translatable="false">Resultados</string>
+    <string name="action_licenses">Créditos</string>
+    <string name="helpTitle">Créditos</string>
+</resources>
